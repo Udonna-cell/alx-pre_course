@@ -1,1 +1,1 @@
-git touch
+git pull <remote> <branch>
